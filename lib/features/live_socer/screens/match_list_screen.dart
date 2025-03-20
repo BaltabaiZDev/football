@@ -1,8 +1,7 @@
 import 'package:fc_kairat/features/live_socer/screens/widgets/featured_match.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
-import '../../home/screens/home/widgets/header_parts.dart';
+import '../../../common/widgets/header_parts.dart';
 import '../controllers/match_controller.dart';
 import 'widgets/match_list_item.dart';
 

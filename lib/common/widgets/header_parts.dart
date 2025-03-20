@@ -1,8 +1,7 @@
-
 import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
 
-import '../../../../../utlls/constants.dart';
+import '../../utlls/constants.dart';
 
 AppBar headerParts() {
   return AppBar(
